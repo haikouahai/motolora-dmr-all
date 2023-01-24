@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetFR_2 Pin=点火感应-1
+Removed Member From Class: ClassName=Sheet1 Member=点火感应
+Change Component Designator: OldDesignator=20P NewDesignator=JP3top
+Change Component Designator: OldDesignator=20P NewDesignator=JP4bottom
+Change Component Designator: OldDesignator=26P NewDesignator=JP1top
+Change Component Designator: OldDesignator=26P NewDesignator=JP2bottom
+Change Component Designator: OldDesignator=LED NewDesignator=LED?
+Added Component: Designator=J?(SIP1-FANGPAN)
+Added Member To Class: ClassName=Sheet1 Member=Component J? CON1
+Added Member To Class: ClassName=Sheet1 Member=Component JP1top HDR-1X13
+Added Member To Class: ClassName=Sheet1 Member=Component JP2bottom HDR-1X13
+Added Member To Class: ClassName=Sheet1 Member=Component JP3top HDR-1X10
+Added Room: Name=Sheet1

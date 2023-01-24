@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetJP2bottom_2 Pin=-1
+Removed Pin From Net: NetName=NetJP2bottom_1 Pin=-10
+Change Component Designator: OldDesignator= NewDesignator=JP1top
+Change Component Designator: OldDesignator= NewDesignator=JP2bottom
+Change Component Designator: OldDesignator= NewDesignator=JP3top
+Change Component Designator: OldDesignator= NewDesignator=JP4bottom
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED?
+Change Component Designator: OldDesignator=µã»ð¸ÐÓ¦ NewDesignator=J1
+Added Pin To Net: NetName=NetJP2bottom_1 Pin=JP4bottom-1
+Added Pin To Net: NetName=NetJP2bottom_2 Pin=JP4bottom-10
+Added Member To Class: ClassName=Sheet1 Member=Component JP1top HDR-1X13
+Added Member To Class: ClassName=Sheet1 Member=Component JP2bottom HDR-1X13
+Added Member To Class: ClassName=Sheet1 Member=Component JP3top HDR-1X10
+Added Room: Name=Sheet1

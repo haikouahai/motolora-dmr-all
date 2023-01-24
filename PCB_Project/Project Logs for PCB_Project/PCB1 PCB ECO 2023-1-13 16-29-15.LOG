@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=JP? Old Footprint=HDR2.54-LI-2x10P New Footprint=HDR2.54-M-LS-2x10P
+Added Member To Class: ClassName=Sheet1 Member=Component JP? Header 2X10
+Added Room: Name=Sheet1

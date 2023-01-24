@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=USB? NewDesignator=USB1
+Added Component: Designator=JP2(13针PCB空)
+Add component (AddParameter): Name = "BOM名称"; Value = "13P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(10P空PCB图画摩托罗拉写频板用)
+Add component (AddParameter): Name = "BOM名称"; Value = "10P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "淘宝ID:黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(10P空PCB图画摩托罗拉写频板用)
+Add component (AddParameter): Name = "BOM名称"; Value = "10P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "淘宝ID:黄晶宝石"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 HDR-1X13
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 HDR-1X10
+Added Member To Class: ClassName=Sheet1 Member=Component JP4 HDR-1X10
+Added Room: Name=Sheet1
